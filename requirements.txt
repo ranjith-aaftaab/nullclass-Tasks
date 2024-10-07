@@ -1,0 +1,11 @@
+streamlit
+sentence-transformers
+faiss-cpu
+pandas
+numpy
+openai
+transformers
+torch
+tqdm
+plotly
+networkx
